@@ -1,3 +1,5 @@
+/* https://codeforces.com/problemset/problem/1027/A */
+
 #include<bits/stdc++.h>
 using namespace std;
 int t,n,i,j,x,r;
